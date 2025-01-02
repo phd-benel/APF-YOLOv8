@@ -42,7 +42,7 @@ The source code for the enhanced YOLOv8 model will be made publicly available up
 The paper is currently under review for publication in **F1000Research**. Once accepted, please cite the paper using the following format (to be updated).
 
 ### License
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. Please refer to the `LICENSE.md` file for detailed information.
+This project is licensed under the **CC BY 4.0 **. Please refer to the `LICENSE.md` file for detailed information.
 
 ### Acknowledgments
 We would like to extend our gratitude to the **Ultralytics YOLOv8** community for their invaluable contributions and resources, which significantly aided in the development of this research.
